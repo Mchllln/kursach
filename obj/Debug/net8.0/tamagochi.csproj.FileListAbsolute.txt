@@ -1,0 +1,14 @@
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\bin\Debug\net8.0\tamagochi.exe
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\bin\Debug\net8.0\tamagochi.deps.json
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\bin\Debug\net8.0\tamagochi.runtimeconfig.json
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\bin\Debug\net8.0\tamagochi.dll
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\bin\Debug\net8.0\tamagochi.pdb
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\obj\Debug\net8.0\tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\obj\Debug\net8.0\tamagochi.AssemblyInfoInputs.cache
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\obj\Debug\net8.0\tamagochi.AssemblyInfo.cs
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\obj\Debug\net8.0\tamagochi.csproj.CoreCompileInputs.cache
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\obj\Debug\net8.0\tamagochi.dll
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\obj\Debug\net8.0\refint\tamagochi.dll
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\obj\Debug\net8.0\tamagochi.pdb
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\obj\Debug\net8.0\tamagochi.genruntimeconfig.cache
+D:\Sharaga\Proga\Курсова робота\kursach\tamagochi\obj\Debug\net8.0\ref\tamagochi.dll
